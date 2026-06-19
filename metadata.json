@@ -1,0 +1,6 @@
+{
+  "name": "InterCapital Partners",
+  "description": "인터캐피탈파트너스(InterCapital Partners) - 대한민국 최상위 M&A 전문 자문기관 공식 리드 수집 랜딩 페이지",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
